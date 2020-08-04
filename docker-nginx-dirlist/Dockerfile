@@ -1,4 +1,4 @@
-FROM nginx:stable
+FROM nginx:1.18
 
 LABEL maintainer="NorthernBytes Ab Oy <contact@nbts.fi>"
 
